@@ -13,6 +13,6 @@
 
 
 ### Ruminations and ideas go into this document
-[General thoughs and ideas](./generalThoughts.md)
-[General requirements]()
+* [General thoughs and ideas](./generalThoughts.md)
+* [General requirements]()
 
