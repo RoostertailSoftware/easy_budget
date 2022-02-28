@@ -6,15 +6,28 @@ I hope this will be a good matrix to go back and make sure things still work ...
 # API
 Rust API
 
-[https://www.rust-lang.org/](https://www.rust-lang.org/)
+what | version | date install | comments
+:-- | :--: | :-- | :--
+[Rust](https://www.rust-lang.org/) | Version 1.59.0 | 27 Feb 2022 |
+
 
 
 # UI
 Angular UI
 
-[https://angular.io/](https://angular.io/)
+what | version | date install | comments
+:-- | :--: | :-- | :--
+[Angular](https://angular.io/) | | |
 
 # Db
 mongo db
 
-[https://www.mongodb.com/](https://www.mongodb.com/)
+what | version | date install | comments
+:-- | :--: | :-- | :--
+[Mongo](https://www.mongodb.com/) | | |
+
+# Testing
+
+what | version | date install | comments
+:-- | :--: | :-- | :--
+[Postman]() | | |
