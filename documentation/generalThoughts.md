@@ -5,9 +5,14 @@ Well, basically, I want to learn Rust.
 
 ### In that, I was thinking of using:
 1. Rust to be the API and serve up the UI.
-2. I like Angular so, I am going to stick to that for the UI
-3. I like mongo and so, I am going to use Mongo for the db.
+    * [https://hub.qovery.com/guides/tutorial/create-a-blazingly-fast-api-in-rust-part-1/#twitter-clone](https://hub.qovery.com/guides/tutorial/create-a-blazingly-fast-api-in-rust-part-1/#twitter-clone)
+    * [https://doc.rust-lang.org/book/ch09-02-recoverable-errors-with-result.html](https://doc.rust-lang.org/book/ch09-02-recoverable-errors-with-result.html)
 
+
+2. I like Angular so, I am going to stick to that for the UI
+    * [https://angular.io/](https://angular.io/)
+3. I like mongo and so, I am going to use Mongo for the db.
+    * [https://www.mongodb.com/](https://www.mongodb.com/)
 That is the basics in 3 lines.
 
 ## What I am looking for
