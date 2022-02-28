@@ -3,7 +3,11 @@ This is going to keep a list of what I use, versions, when installed and how it 
 I hope this will be a good matrix to go back and make sure things still work ... later.
 
 
-# API
+## git
+Repo: https://github.com/RoostertailSoftware/easy_budget
+
+
+## API
 Rust API
 
 what | version | date install | comments
@@ -12,22 +16,23 @@ what | version | date install | comments
 
 
 
-# UI
+## UI
 Angular UI
 
 what | version | date install | comments
 :-- | :--: | :-- | :--
 [Angular](https://angular.io/) | | |
 
-# Db
+## Db
 mongo db
 
 what | version | date install | comments
 :-- | :--: | :-- | :--
 [Mongo](https://www.mongodb.com/) | | |
 
-# Testing
+## Testing
 
 what | version | date install | comments
 :-- | :--: | :-- | :--
 [Postman]() | | |
+
